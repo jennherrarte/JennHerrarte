@@ -10,6 +10,7 @@
 
 
 📫  Drop me a line on LinkedIn [here!](https://www.linkedin.com/in/jenniferherrarte/)
+🎨 Check out my portfolio [here!](https://www.jennherrarte.dev)
 
 
 
