@@ -2,8 +2,6 @@
 
 ...
 
-🎬  I’m currently working on a social media monitoring tool for Paramount Television Studios, you can check it out [here.](https://ptvstwitterfeed.herokuapp.com/) 
-
 
 💬  Ask me about ...
 - Hiking Trails in Los Angeles 
