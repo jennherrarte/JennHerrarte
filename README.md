@@ -2,9 +2,6 @@
 
 ...
 
-### I'm a Developer, Dog Mom, and House Plant Enthusiast!
-
-
 💬  Ask me about: Hiking Trails in Los Angeles 
 
 
