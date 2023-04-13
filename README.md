@@ -2,11 +2,11 @@
 
 I currently work at PXL Agency, where I get to create beautiful and intuitive applications for clients such as Dreamworks, Netflix, Universal, and the City of Santa Monica.
 
-I enjoy running, reading (Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin at the moment), and playing with my dog, Scout. 
+I enjoy running, reading (*Tomorrow, and Tomorrow, and Tomorrow* by Gabrielle Zevin at the moment), and playing with my dog, Scout. 
 
-📫  Drop me a line on LinkedIn [here!](https://www.linkedin.com/in/jenniferherrarte/)
 
-😄  Pronouns: She/her
+
+
 
 
 
