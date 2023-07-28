@@ -1,4 +1,4 @@
-### Hi there, I'm Jenn 👋
+### Hey there, I'm Jenn 👋
 
 I currently work at PXL Agency, where I get to create beautiful and intuitive applications for clients such as Dreamworks, Netflix, Universal, and the City of Santa Monica.
 
