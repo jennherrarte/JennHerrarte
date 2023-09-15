@@ -4,3 +4,4 @@
 - [Tech Terms You Need to Know 💭](https://dev.to/jennherrarte/things-tech-people-say-2a3e) - 09/01/2023
 - [An Introduction to Rest APIs](https://dev.to/jennherrarte/an-introduction-to-rest-apis-5hjn) - 17/12/2022
 - [First and (Maybe) Last Post of 2022...](https://dev.to/jennherrarte/first-and-maybe-last-post-of-2022-pba) - 17/12/2022
+
