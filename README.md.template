@@ -1,4 +1,3 @@
-Hi!
-
+**HELLLOOOOOO**
 
 {{ template "article-table" .Articles }}
