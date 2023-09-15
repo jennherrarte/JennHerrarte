@@ -1,3 +1,4 @@
 hi im jenn
 
 
+{{ template "article-table" .Articles }}
