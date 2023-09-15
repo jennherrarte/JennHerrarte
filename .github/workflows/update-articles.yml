@@ -1,10 +1,8 @@
 name: "Cronjob"
 on:
   schedule:
-    - cron: '15 */6 * * *'
-  push:
-    branches:
-      - 'main'
+  - cron: '15 0 * * *'
+
 jobs:
     update-articles:
         permissions: write-all
@@ -14,18 +12,19 @@ jobs:
             - name: Generate README
               uses: huantt/article-listing@v1.1.0
               with:
-                username: jennherrarte               
+                username: jennherrarte                
                 template-file: 'README.md.template'
                 out-file: 'README.md'
                 limit: 5
             - name: Commit
+              run: |
                 if git diff --exit-code; then
-                echo "No changes to commit."
-                exit 0
+                    echo "No changes to commit."
+                    exit 0
                 else
-                  git config user.name github-actions
-                  git config user.email github-actions@github.com
-                  git add .
-                  git commit -m "update"
-                  git push origin main
+                    git config user.name github-actions
+                    git config user.email github-actions@github.com
+                    git add .
+                    git commit -m "update"
+                    git push origin main
                 fi
