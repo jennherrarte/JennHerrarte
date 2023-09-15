@@ -1,5 +1,5 @@
 name: "Cronjob"
-on:
+on: push
 schedule:
 - cron: '15 0 * * *'
 
