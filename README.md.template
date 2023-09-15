@@ -1,4 +1,4 @@
-hi im jenn
+Hi!
 
 
 {{ template "article-table" .Articles }}
