@@ -1,8 +1,10 @@
 name: "Cronjob"
-on: push
-schedule:
-- cron: '15 0 * * *'
-
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  push:
+    branches:
+      - 'main'
 jobs:
     update-articles:
         permissions: write-all
@@ -12,8 +14,8 @@ jobs:
             - name: Generate README
               uses: huantt/article-listing@v1.0.0
               with:
-                username: jennherrarte                
-                template-file: 'README.md'
+                username: YOUR_USERNAME_ON_DEV_TO                
+                template-file: 'README.md.template'
                 out-file: 'README.md'
                 limit: 5
             - name: Commit
