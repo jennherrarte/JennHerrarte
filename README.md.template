@@ -1,2 +1,2 @@
-{{ template "article-list" .Articles }}
+{{ template "article-table" .Articles }}
 
