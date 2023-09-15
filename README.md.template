@@ -1,3 +1,2 @@
-**HELLLOOOOOO**
 
 {{ template "article-table" .Articles }}
