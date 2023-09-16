@@ -1,4 +1,20 @@
-
+![Hi, I'm Jenn!](https://github.com/jennherrarte/JennHerrarte/assets/36706323/8c26c11c-008d-4fe6-a569-51217e19ebbf)
+## About Me 
+I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. Let's connect and work together towards a brighter and more inclusive digital future.
+## ⚡️ A Few Quick Facts
+```
+const Jenn = {
+    pronouns: "She" | "Her",
+    skills: {
+        languages: ["TypeScript", "JavaScript", "HTML", "CSS", "SQL", "PHP"],
+        frameworks: ["React.js", "Vue.js", "Express", "Sass", "Tailwind", "Boostrap", "Ember.js", "Laravel"],
+        technologies: ["Node.js", "Heroku", "Docker", "Jest", "Playwright", "Sequelize", "MongoDB", "Mongoose", "Storybook"],
+    },
+    askMeAbout: ["web dev", "tech", "running", "my dog Scout"],
+    funFact: "I run a technical book club for Techqueria, a nonprofit that serves the largest global community of Latinx professionals in the tech industry."
+};
+```
+## 👩🏽‍💻 Check out some of my recent posts from dev.to!
 <table>
         <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--khw0Eumm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbe753ri1xheob2h8pfr.png" alt="thumbnail"></td>
