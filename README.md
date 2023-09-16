@@ -1,8 +1,4 @@
-# Hi, I'm Jenn! 👋
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennherrarte93@gmail.com?subject=Hello!)
-[![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jennherrarte)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferherrarte/)
-
+![Hello!](https://github.com/jennherrarte/JennHerrarte/assets/36706323/4fb4b3d6-1bdc-4200-ab7d-f37dbcedbaf9)
 ## 🚀 About Me 
 I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. 
 
@@ -23,9 +19,14 @@ const Jenn = {
 
 ## 💡 Projects
 
-You'll find a variety of projects in my GitHub repositories. Some are from my earlier days of coding, while others showcase my more recent work. Please note, my older projects may not reflect my current skill level. To view my most recent work, click here. 
+You'll find a variety of projects in my GitHub repositories. Some are from my earlier days of coding, but my most recent work can be found here. Please note, my older projects may not reflect my current skill level. 
 
 I believe in continuous improvement, and I'm always striving to level up my coding abilities. Feel free to explore my repositories, open issues, and contribute to any projects that catch your eye. 
+
+## ✉️ Connect With Me
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennherrarte93@gmail.com?subject=Hello!)
+[![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jennherrarte)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferherrarte/)
 
 ## 👩🏽‍💻 Check Out Some Of My Recent Posts From Dev.to!
 
