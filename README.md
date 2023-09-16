@@ -4,7 +4,9 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferherrarte/)
 
 ## 🚀 About Me 
-I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. Let's connect and work together towards a brighter and more inclusive digital future!
+I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. 
+
+Let's connect and work together towards a brighter and more inclusive digital future!
 ## ⚡️ A Few Quick Facts
 ```
 const Jenn = {
@@ -18,6 +20,13 @@ const Jenn = {
     funFact: "I run a technical book club for Techqueria, a nonprofit that serves the largest global community of Latinx professionals in the tech industry."
 };
 ```
+
+## 💡 Projects
+
+You'll find a variety of projects in my GitHub repositories. Some are from my earlier days of coding, while others showcase my more recent work. Please note, my older projects may not reflect my current skill level. To view my most recent work, click here. 
+
+I believe in continuous improvement, and I'm always striving to level up my coding abilities. Feel free to explore my repositories, open issues, and contribute to any projects that catch your eye. 
+
 ## 👩🏽‍💻 Check Out Some Of My Recent Posts From Dev.to!
 <table>
         <tr>
