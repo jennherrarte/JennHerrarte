@@ -1,33 +1,5 @@
-# Hi, I'm Jenn! 👋
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jennherrarte93@gmail.com?subject=Hello!)
-[![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jennherrarte)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferherrarte/)
 
-## 🚀 About Me 
-I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. 
 
-Let's connect and work together towards a brighter and more inclusive digital future!
-## ⚡️ A Few Quick Facts
-```
-const Jenn = {
-    pronouns: "She" | "Her",
-    skills: {
-        languages: ["TypeScript", "JavaScript", "HTML", "CSS", "SQL", "PHP"],
-        frameworks: ["React.js", "Vue.js", "Express", "Sass", "Tailwind", "Boostrap", "Ember.js", "Laravel"],
-        technologies: ["Node.js", "Heroku", "Docker", "Jest", "Playwright", "Sequelize", "MongoDB", "Mongoose", "Storybook"],
-    },
-    askMeAbout: ["web dev", "tech", "running", "my dog Scout"],
-    funFact: "I run a technical book club for Techqueria, a nonprofit that serves the largest global community of Latinx professionals in the tech industry."
-};
-```
-
-## 💡 Projects
-
-You'll find a variety of projects in my GitHub repositories. Some are from my earlier days of coding, while others showcase my more recent work. Please note, my older projects may not reflect my current skill level. To view my most recent work, click here. 
-
-I believe in continuous improvement, and I'm always striving to level up my coding abilities. Feel free to explore my repositories, open issues, and contribute to any projects that catch your eye. 
-
-## 👩🏽‍💻 Check Out Some Of My Recent Posts From Dev.to!
 <table>
         <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--khw0Eumm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbe753ri1xheob2h8pfr.png" alt="thumbnail"></td>
@@ -70,4 +42,3 @@ I believe in continuous improvement, and I'm always striving to level up my codi
             </td>
         </tr>
 </table>
-
