@@ -1,5 +1,5 @@
 ![Hi, I'm Jenn!](https://github.com/jennherrarte/JennHerrarte/assets/36706323/8c26c11c-008d-4fe6-a569-51217e19ebbf)
-## About Me 
+## 🚀 About Me 
 I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. Let's connect and work together towards a brighter and more inclusive digital future.
 ## ⚡️ A Few Quick Facts
 ```
@@ -14,7 +14,13 @@ const Jenn = {
     funFact: "I run a technical book club for Techqueria, a nonprofit that serves the largest global community of Latinx professionals in the tech industry."
 };
 ```
-## 👩🏽‍💻 Check out some of my recent posts from dev.to!
+## 📲 Call Me, Beep me, If You Wanna Reach Me 
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.google.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferherrarte/)
+[![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jennherrarte)
+
+## 👩🏽‍💻 Check Out Some Of My Recent Posts From Dev.to!
 <table>
         <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--khw0Eumm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbe753ri1xheob2h8pfr.png" alt="thumbnail"></td>
