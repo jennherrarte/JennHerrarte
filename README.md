@@ -6,7 +6,7 @@ Let's connect and work together towards a brighter and more inclusive digital fu
 ## ⚡️ A Few Quick Facts
 ```
 const Jenn = {
-    pronouns: "She" | "Her",
+    pronouns: ["She", "Her"],
     skills: {
         languages: ["TypeScript", "JavaScript", "HTML", "CSS", "SQL", "PHP"],
         frameworks: ["React.js", "Vue.js", "Express", "Sass", "Tailwind", "Boostrap", "Ember.js", "Laravel"],
