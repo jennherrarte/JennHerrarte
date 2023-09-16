@@ -19,7 +19,7 @@ const Jenn = {
 
 ## 💡 Projects
 
-You'll find a variety of projects in my GitHub repositories. Some are from my earlier days of coding, but my most recent work can be found here. Please note, my older projects may not reflect my current skill level. 
+You'll find a variety of projects in my GitHub repositories. Some are from my earlier days of coding, but my most recent work can be found [here](https://drive.google.com/file/d/1ccyfivDoh-xDTyJeQp2_oTEQFHRTc9E7/view?usp=sharing). Please note, my older projects may not reflect my current skill level. 
 
 I believe in continuous improvement, and I'm always striving to level up my coding abilities. Feel free to explore my repositories, open issues, and contribute to any projects that catch your eye. 
 
