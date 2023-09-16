@@ -1,6 +1,6 @@
 ![Hi, I'm Jenn!](https://github.com/jennherrarte/JennHerrarte/assets/36706323/8c26c11c-008d-4fe6-a569-51217e19ebbf)
 ## 🚀 About Me 
-I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. Let's connect and work together towards a brighter and more inclusive digital future.
+I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. Let's connect and work together towards a brighter and more inclusive digital future!
 ## ⚡️ A Few Quick Facts
 ```
 const Jenn = {
