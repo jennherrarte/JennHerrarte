@@ -1,8 +1,11 @@
 ![Hello!](https://github.com/jennherrarte/JennHerrarte/assets/36706323/4fb4b3d6-1bdc-4200-ab7d-f37dbcedbaf9)
 ## 🚀 About Me 
-I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. 
+I am a passionate Software Engineer dedicated to making the world a more just and equitable place through the creation of beautiful, intuitive, and impactful software solutions. With a strong focus on modern web development and user experience, I believe in harnessing the power of empathy to build applications that truly resonate with users. Currently, I work at PXL, a creative agency with clients such as Dreamworks, Netflix, and the City of Santa Monica. 
 
 Let's connect and work together towards a brighter and more inclusive digital future!
+
+Read more about my skills below. ⬇️
+
 ## ⚡️ A Few Quick Facts
 ```
 const Jenn = {
