@@ -13,7 +13,8 @@ const Jenn = {
         technologies: ["Node.js", "Heroku", "Docker", "Jest", "Playwright", "Sequelize", "MongoDB", "Mongoose", "Storybook"],
     },
     askMeAbout: ["web dev", "tech", "running", "my dog Scout"],
-    funFact: "I run a technical book club for Techqueria, a nonprofit that serves the largest global community of Latinx professionals in the tech industry."
+    funFact: "I run a technical book club for Techqueria, a nonprofit that serves the largest global community of Latinx professionals in the tech industry.",
+    currentlyReading: "Designing Data-Intensive Applications by Martin Kleppmann"
 };
 ```
 
