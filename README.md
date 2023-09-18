@@ -31,6 +31,7 @@ I believe in continuous improvement, and I'm always striving to level up my codi
 
 ## 👩🏽‍💻 Check Out Some Of My Recent Posts From Dev.to!
 
+
 <table>
         <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--khw0Eumm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbe753ri1xheob2h8pfr.png" alt="thumbnail"></td>
