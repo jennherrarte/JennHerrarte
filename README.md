@@ -7,8 +7,6 @@ My journey into the world of software engineering is a testament to my adaptabil
 Currently, I am applying my diverse skill set at PXL Agency, where I have the privilege of working with clients such as DreamWorks 🍿, Netflix 🎥, and the City of Santa Monica 🌊. In this role, I am responsible for utilizing technologies such as JavaScript, TypeScript, and Vue.js to enhance and maintain their websites. I seamlessly blend my marketing expertise with software engineering to deliver exceptional digital experiences that captivate and engage their audiences.
 
 Let's connect and work together towards a brighter and more inclusive digital future! ✨
-
-## ⚡️ A Few Quick Facts
 ```
 const Jenn = {
     pronouns: ["She", "Her"],
