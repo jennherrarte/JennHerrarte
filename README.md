@@ -38,6 +38,14 @@ I believe in continuous improvement, and I'm always striving to level up my codi
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qhz6vYU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48bk33zxm4ddt24az87m.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jennherrarte/discord-app-pitches-2023-1ail">Catch me at the 2023 Discord App Pitches!</a>
+                <div>Hello Dev Community!   I&#39;m thrilled to share that I&#39;ll be one of the judges for Discord&#39;s 2023 App...</div>
+                <div><i>25/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--khw0Eumm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbe753ri1xheob2h8pfr.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/exploring-two-way-data-binding-in-vuejs-building-interactive-web-apps-2gc7">Exploring Two-Way Data Binding in Vue.js: Building Interactive Web Apps</a>
@@ -66,14 +74,6 @@ I believe in continuous improvement, and I'm always striving to level up my codi
             <td>
                 <a href="https://dev.to/jennherrarte/an-introduction-to-rest-apis-5hjn">An Introduction to Rest APIs</a>
                 <div>I know in my last post I said the internet doesn&#39;t need another explanation of REST APIs, but that&#39;s...</div>
-                <div><i>17/12/2022</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0TNswIyP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/67sq0vwjvfylabwvxrlv.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jennherrarte/first-and-maybe-last-post-of-2022-pba">First and (Maybe) Last Post of 2022...</a>
-                <div>Definitely more posts to come in 2023, but first, a little about me...           About Me   Hello! My...</div>
                 <div><i>17/12/2022</i></div>
             </td>
         </tr>
