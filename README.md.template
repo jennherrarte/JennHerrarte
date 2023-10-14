@@ -4,7 +4,7 @@ Hello! 👋🏽 My name is Jenn, and I am a passionate Software Engineer dedicat
 
 My journey into the world of software engineering is a testament to my adaptability and determination. I started my career in marketing, where I honed my skills in understanding user behavior 👤, crafting compelling messaging 💬, and driving engagement 📈. This background has proven to be an invaluable asset in my transition to software engineering. It enables me to not only create technically robust solutions but also to ensure they meet the needs and expectations of end-users.
 
-Currently, I am applying my diverse skill set at PXL Agency, where I have the privilege of working with clients such as DreamWorks 🍿, Netflix 🎥, and the City of Santa Monica 🌊. In this role, I am responsible for utilizing technologies such as JavaScript, TypeScript, and Vue.js to enhance and maintain their websites. I seamlessly blend my marketing expertise with software engineering to deliver exceptional digital experiences that captivate and engage their audiences.
+I've had the privilege of working with clients such as DreamWorks 🍿, Netflix 🎥 , and the City of Santa Monica 🌊. I successfully revamped and maintained their websites, combining my marketing expertise with software engineering to deliver exceptional digital experiences that captivate and engage their audiences.
 
 Let's connect and work together towards a brighter and more inclusive digital future! ✨
 ```
