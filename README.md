@@ -38,6 +38,14 @@ I believe in continuous improvement, and I'm always striving to level up my codi
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DNW2LjSj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k6va0sonbr827m0e74j8.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jennherrarte/docker-an-introduction-4nm2">Docker: An Introduction</a>
+                <div>Earlier this month, I had the chance to attend DockerCon in Los Angeles. You can read more about that...</div>
+                <div><i>02/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qhz6vYU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48bk33zxm4ddt24az87m.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/discord-app-pitches-2023-1ail">Catch me at the 2023 Discord App Pitches!</a>
@@ -67,14 +75,6 @@ I believe in continuous improvement, and I'm always striving to level up my codi
                 <a href="https://dev.to/jennherrarte/things-tech-people-say-2a3e">Tech Terms You Need to Know 💭</a>
                 <div>Today&#39;s post will be dedicated to a few terms and phrases that are software, development, and tech...</div>
                 <div><i>09/01/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KovDlJY4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/856a2mctwls6jvru9613.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jennherrarte/an-introduction-to-rest-apis-5hjn">An Introduction to Rest APIs</a>
-                <div>I know in my last post I said the internet doesn&#39;t need another explanation of REST APIs, but that&#39;s...</div>
-                <div><i>17/12/2022</i></div>
             </td>
         </tr>
 </table>
