@@ -38,6 +38,22 @@ I believe in continuous improvement, and I'm always striving to level up my codi
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Umhe4-oz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jc6tmbt97w3m92ies9jh.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jennherrarte/so-i-started-a-youtube-channel-4c1k">So I Started a YouTube Channel 🚀</a>
+                <div>Hey DEV family! Can&#39;t believe I&#39;m writing this, but you can now find me on YouTube! 🎥  I&#39;m terrified...</div>
+                <div><i>08/01/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Fro-NmNj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gyhkykzwskbo8c81epy7.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jennherrarte/how-to-read-technical-books-18mp">How to Read Technical Books 📚</a>
+                <div>Hello! Happy 2024! THIS is the year where we&#39;re picking up the stack of software engineering books...</div>
+                <div><i>08/01/2024</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DNW2LjSj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k6va0sonbr827m0e74j8.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/docker-an-introduction-4nm2">Docker: An Introduction</a>
@@ -59,22 +75,6 @@ I believe in continuous improvement, and I'm always striving to level up my codi
                 <a href="https://dev.to/jennherrarte/exploring-two-way-data-binding-in-vuejs-building-interactive-web-apps-2gc7">Exploring Two-Way Data Binding in Vue.js: Building Interactive Web Apps</a>
                 <div>In today&#39;s dynamic web development landscape, creating interactive and responsive web applications is...</div>
                 <div><i>03/09/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ObHhEykb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8bsdg4gsbla7j0mnpuov.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jennherrarte/what-is-state-management-and-why-is-it-important-1i8d">What is State Management and Why Is It Important?</a>
-                <div>What is State Management?  &#34;State&#34; is any data that describes the current behavior of an application....</div>
-                <div><i>04/08/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GCTi8EGb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1k5jhc7wkrii6unm5eu.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jennherrarte/things-tech-people-say-2a3e">Tech Terms You Need to Know 💭</a>
-                <div>Today&#39;s post will be dedicated to a few terms and phrases that are software, development, and tech...</div>
-                <div><i>09/01/2023</i></div>
             </td>
         </tr>
 </table>
