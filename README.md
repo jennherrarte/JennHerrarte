@@ -38,14 +38,6 @@ I believe in continuous improvement, and I'm always striving to level up my codi
 
 <table>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Umhe4-oz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jc6tmbt97w3m92ies9jh.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jennherrarte/so-i-started-a-youtube-channel-4c1k">So I Started a YouTube Channel 🚀</a>
-                <div>Hey DEV family! Can&#39;t believe I&#39;m writing this, but you can now find me on YouTube! 🎥  I&#39;m terrified...</div>
-                <div><i>08/01/2024</i></div>
-            </td>
-        </tr>
-        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Fro-NmNj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gyhkykzwskbo8c81epy7.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/how-to-read-technical-books-18mp">How to Read Technical Books 📚</a>
