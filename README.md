@@ -38,7 +38,7 @@ I believe in continuous improvement, and I'm always striving to level up my codi
 
 <table>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Umhe4-oz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jc6tmbt97w3m92ies9jh.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjc6tmbt97w3m92ies9jh.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/so-i-started-a-youtube-channel-4c1k">So I Started a YouTube Channel 🚀</a>
                 <div>Hey DEV family! Can&#39;t believe I&#39;m writing this, but you can now find me on YouTube! 🎥  I&#39;m terrified...</div>
@@ -46,7 +46,7 @@ I believe in continuous improvement, and I'm always striving to level up my codi
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Fro-NmNj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gyhkykzwskbo8c81epy7.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyhkykzwskbo8c81epy7.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/how-to-read-technical-books-18mp">How to Read Technical Books 📚</a>
                 <div>Hello! Happy 2024! THIS is the year where we&#39;re picking up the stack of software engineering books...</div>
@@ -54,7 +54,7 @@ I believe in continuous improvement, and I'm always striving to level up my codi
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DNW2LjSj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k6va0sonbr827m0e74j8.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk6va0sonbr827m0e74j8.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/docker-an-introduction-4nm2">Docker: An Introduction</a>
                 <div>Earlier this month, I had the chance to attend DockerCon in Los Angeles. You can read more about that...</div>
@@ -62,7 +62,7 @@ I believe in continuous improvement, and I'm always striving to level up my codi
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qhz6vYU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48bk33zxm4ddt24az87m.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48bk33zxm4ddt24az87m.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/discord-app-pitches-2023-1ail">Catch me at the 2023 Discord App Pitches!</a>
                 <div>Hello Dev Community!   I&#39;m thrilled to share that I&#39;ll be one of the judges for Discord&#39;s 2023 App...</div>
@@ -70,7 +70,7 @@ I believe in continuous improvement, and I'm always striving to level up my codi
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--khw0Eumm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbe753ri1xheob2h8pfr.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkbe753ri1xheob2h8pfr.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/exploring-two-way-data-binding-in-vuejs-building-interactive-web-apps-2gc7">Exploring Two-Way Data Binding in Vue.js: Building Interactive Web Apps</a>
                 <div>In today&#39;s dynamic web development landscape, creating interactive and responsive web applications is...</div>
