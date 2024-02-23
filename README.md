@@ -37,6 +37,7 @@ I believe in continuous improvement, and I'm always striving to level up my codi
 
 
 <table>
+        <tr>
             <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyhkykzwskbo8c81epy7.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jennherrarte/how-to-read-technical-books-18mp">How to Read Technical Books 📚</a>
@@ -66,6 +67,14 @@ I believe in continuous improvement, and I'm always striving to level up my codi
                 <a href="https://dev.to/jennherrarte/exploring-two-way-data-binding-in-vuejs-building-interactive-web-apps-2gc7">Exploring Two-Way Data Binding in Vue.js: Building Interactive Web Apps</a>
                 <div>In today&#39;s dynamic web development landscape, creating interactive and responsive web applications is...</div>
                 <div><i>03/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8bsdg4gsbla7j0mnpuov.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jennherrarte/what-is-state-management-and-why-is-it-important-1i8d">What is State Management and Why Is It Important?</a>
+                <div>What is State Management?  &#34;State&#34; is any data that describes the current behavior of an application....</div>
+                <div><i>04/08/2023</i></div>
             </td>
         </tr>
 </table>
